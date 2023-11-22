@@ -1,5 +1,4 @@
 import random
-print("hello world")
 
 def get_player_choice():
     while True:
