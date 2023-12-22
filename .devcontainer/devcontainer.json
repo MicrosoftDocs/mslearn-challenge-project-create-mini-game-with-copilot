@@ -16,7 +16,8 @@
 			"extensions": [
 				"streetsidesoftware.code-spell-checker",
 				"ms-python.python",
-				"ms-python.vscode-pylance"
+				"ms-python.vscode-pylance",
+				"GitHub.copilot"
 			]
 		}
 	},
@@ -32,7 +33,6 @@
 			"onAutoForward": "notify"
 		}
 	}
-
 	// Uncomment to connect as root instead. More info: https://aka.ms/dev-containers-non-root.
 	// "remoteUser": "root"
 }
